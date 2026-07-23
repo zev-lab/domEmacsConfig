@@ -8,7 +8,7 @@
 ;; clients, file templates and snippets. It is optional.
 ;; (setq user-full-name "John Doe"
 ;;       user-mail-address "john@doe.com")
-(setq nerd-icons-font-names '("AnonymiceProNerdFont-Regular.ttf"))
+;; (setq nerd-icons-font-names '("AnonymiceProNerdFont-Regular.ttf"))
 ;; Doom exposes five (optional) variables for controlling fonts in Doom:
 ;;
 ;; - `doom-font' -- the primary font to use
